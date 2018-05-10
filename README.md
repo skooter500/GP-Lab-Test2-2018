@@ -23,6 +23,7 @@ What is happening:
 - The player can change pin colour by clicking on any of the three colour buttons
 - To get full marks in the test, you should use classes, PVector's and arrays or arraylists as appropriate
 - To get marks for style & flair, you should implement any additional cool stuff that would enhance the game, such as sound, more beaufiful drawing or enhanced gameplay 
+- If you want to make sounds you can use [bfxr](https://www.bfxr.net/).
 
 Marking scheme:
 
